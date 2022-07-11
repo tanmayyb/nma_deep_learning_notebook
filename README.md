@@ -59,3 +59,36 @@ Concatenated by rows: shape[6, 4]
         [ 8.,  9., 10., 11.,  4.,  3.,  2.,  1.]])
 ```
 
+## Section3: Neural Networks
+### Section3.1 Load CSV
+
+**Load CSV**
+```
+X_orig = data[["x0", "x1"]].to_numpy() # Create a numpy array from the x0 and x1 columns from the data imported from csv
+y_orig = data["y"].to_numpy()
+
+#tensors from numpy array
+X = torch.tensor(X_orig, dtype=torch.float32)
+y = torch.from_numpy(y_orig).type(torch.LongTensor)
+```
+**uploading tensors to GPU**
+```
+DEVICE = set_device() #checks if GPU is set up for runtime
+
+# Upload the tensor to the device
+X = X.to(DEVICE)
+y = y.to(DEVICE)
+```
+### Section 3.2 Simple Neural Network
+
+**Programing the Network**
+
+PyTorch provides a base class for all neural network modules called [`nn.Module`](https://pytorch.org/docs/stable/generated/torch.nn.Module.html). You need to inherit from `nn.Module` and implement some important methods:
+
+* `__init__`
+* `forward`
+* `predict`
+* `train`
+<br>
+
+### Section 3.3 Train Your Neural Network
