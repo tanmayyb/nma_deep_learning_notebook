@@ -1,7 +1,8 @@
 # nma_deep_learning_notebook
 
 ## W1D1
-
+Sai's notes
+https://sai-notes.notion.site/W1D1-PyTorch-Basics-263429cd5dde4f50b2163fceb26936aa
 ## Section 2: Basics of Pytorch
 **flatten/reshape**
 ```
