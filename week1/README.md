@@ -12,3 +12,5 @@ skipped a bit
 
 ### W1D2T3
 Skipped RSA <= important to know
+
+## W1D3
