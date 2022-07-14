@@ -24,5 +24,5 @@ Watched till end - 10mins
 Skipped all coding exercises
 
 #### Tutorial 1: Biological vs. Artificial Neural Networks
-Section2: Spiral Classification Dataset Skipped. Skipped Coding Exercise.
+Section2: Spiral Classification Dataset Skipped. Skipped Coding Exercise (Plotting input neurons of first layer).
 #### Tutorial 2: Deep MLPs
