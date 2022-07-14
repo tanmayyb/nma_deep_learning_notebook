@@ -12,7 +12,7 @@ Skipped Konrads Recordings :(, definetely watch. Infact watch on a cinema screen
 skipped trivial bits, revise autograd?
 
 #### Tutorial 2: Learning Hyperparameters
-???
+ski
 
 #### Tutorial 3: Deep linear neural networks
 Skipped RSA <= important to know
@@ -24,6 +24,5 @@ Watched till end - 10mins
 Skipped all coding exercises
 
 #### Tutorial 1: Biological vs. Artificial Neural Networks
-Section2.2: Spiral Classification Dataset Skipped
-
+Section2: Spiral Classification Dataset Skipped. Skipped Coding Exercise.
 #### Tutorial 2: Deep MLPs
