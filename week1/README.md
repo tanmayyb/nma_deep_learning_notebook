@@ -26,3 +26,8 @@ Skipped all coding exercises
 #### Tutorial 1: Biological vs. Artificial Neural Networks
 Section2: Spiral Classification Dataset Skipped. Skipped Coding Exercise (Plotting input neurons of first layer).
 #### Tutorial 2: Deep MLPs
+
+## Optimisation(W1D5)
+#### Tutorial 1: Biological vs. Artificial Neural Networks
+Skipped later coding exercise(Momentum etc.)
+Skipped ethical lecture(to be revisited)
