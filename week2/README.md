@@ -21,3 +21,9 @@ Bonus 2: (skipped)
 
 ### Tutorial 2
 skipped
+
+## Deeper into CNNs (W2D3)
+### Tutorial 1 
+Skipped coding exercises, watched all videos
+### Bonus lecture
+Skipped GH's bonus video, to be revisited
