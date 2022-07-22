@@ -27,3 +27,10 @@ skipped
 Skipped coding exercises, watched all videos
 ### Bonus lecture
 Skipped GH's bonus video, to be revisited
+
+
+## Intro to GANs (W2D4)
+Skipppppppppped
+
+## Time Series And Natural Language Processing (W2D5)
+## Tutorial 1
